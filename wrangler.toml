@@ -35,7 +35,7 @@ binding = "AI"
 # Then: npm run deploy
 [[kv_namespaces]]
 binding = "DB"
-id = ""
+id = "51a343135307489a80bcf9183bdc2472"
 
 # ── Optional custom domain (uncomment on your zone) ──
 # routes = [
